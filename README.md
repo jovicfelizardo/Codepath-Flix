@@ -23,17 +23,20 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### App Walkthrough GIF
 
 App being developed on iphone 11 Pro Max
-<a href="https://recordit.co/m3CLDINetV"></a>
+
+<img src="http://g.recordit.co/m3CLDINetV.gif" />
 
 App can be viewed on iphone 8 with proper constraints and orientation
-<a href="https://recordit.co/TSWFhEKAKo"></a>
+
+<img src="http://g.recordit.co/TSWFhEKAKo.gif" />
 
 App can be viewed on a real device iphone 6 plus with proper constraints and orientation
-<a href="https://recordit.co/VYZgrx7AaY"></a>
+
+<img src="http://g.recordit.co/VYZgrx7AaY.gif">
 
 ### Notes
 Describe any challenges encountered while building the app.
 
--> Had an issue integrating an iphone device to Xcode. 
--> Struggled with learning new concept of auto-layout
--> Xcode changed project target changed deployment target to macOS instead of iOS, had to change the settings and restarted the program
+- Had an issue integrating an iphone device to Xcode. 
+- Struggled with learning new concept of auto-layout
+- Xcode changed project target changed deployment target to macOS instead of iOS, had to change the settings and restarted the program
