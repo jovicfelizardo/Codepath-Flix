@@ -3,11 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>SchemeUserState</key>
+	<dict/>
+	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>flixster.xcscheme_^#shared#^_</key>
+		<key>0618FC4224D297C00019A6DD</key>
 		<dict>
-			<key>orderHint</key>
-			<integer>0</integer>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>0618FC5824D297C50019A6DD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>0618FC6324D297C50019A6DD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
