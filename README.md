@@ -26,13 +26,6 @@ App being developed on iphone 11 Pro Max
 
 <img src="http://g.recordit.co/m3CLDINetV.gif" />
 
-App can be viewed on iphone 8 with proper constraints and orientation
-
-<img src="http://g.recordit.co/TSWFhEKAKo.gif" />
-
-App can be viewed on a real device iphone 6 plus with proper constraints and orientation
-
-<img src="http://g.recordit.co/VYZgrx7AaY.gif">
 
 ### Notes
 Describe any challenges encountered while building the app.
